@@ -5,14 +5,16 @@ Basic-Input/Output
 CodeUp - C1008 ~ C1027
 
 */
+
 #include <stdio.h>
 
 int main() {
+
+    /*
+
     int n;
     scanf("%d",&n);
     printf("%d", n);
-
-    /*
 
     char n;
     scanf("%c",&n);
@@ -76,11 +78,11 @@ int main() {
     scanf("%d:%d:%d", &h, &m, &s);
     printf("%d",m);
 
+    */
+
     int y, m, d;
     scanf("%d.%d.%d", &y, &m, &d);
     printf("%02d-%02d-%d",d,m,y);
-
-    */
 
     return 0;
 }
