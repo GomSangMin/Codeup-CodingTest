@@ -20,11 +20,11 @@ int main() {
     scanf("%lf", &d);
     printf("%.11lf", d);
 
+    */
+
     long long int n;
     scanf("%lld", &n);
     printf("%lld", n);
-
-    */
 
     return 0;
 }
