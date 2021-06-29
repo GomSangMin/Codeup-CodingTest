@@ -36,11 +36,11 @@ int main() {
     scanf("%c", &c);
     printf("%d", c);
 
+    */
+
     int n;
     scanf("%d", &n);
     printf("%c", n);
-
-    */
    
     return 0;   
 }
