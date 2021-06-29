@@ -43,11 +43,11 @@ int main() {
     scanf("%u %u", &a, &b);
     printf("%d\n%d\n%d\n%d\n%d\n%.2f", a+b, a-b, a*b, a/b, a%b, (float)a/(float)b);
 
+    */
+   
     int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
     printf("%d\n%.1f", a+b+c, (float)(a+b+c)/3);
-        
-    */
    
     return 0;
 }
