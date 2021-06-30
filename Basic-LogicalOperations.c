@@ -33,8 +33,6 @@ int main() {
     printf("%d", (a&&b)||(!a&&!b));   
 
     */ 
-
-    */
    
     int a, b;
     scanf("%d %d", &a, &b);
